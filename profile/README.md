@@ -1,6 +1,12 @@
 ## Hi there 👋
 
-<!--
+Welcome to Koksmat. Your helping hand in our digital Kitchen. The word
+Koksmat is danish and means the helping hand to the chef in the kitchen
+of a ship.
+    
+Helping each others succeed with our work and share our knowledge is
+what this is all about.
+ 
 
 **Here are some ideas to get you started:**
 
@@ -9,4 +15,3 @@
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
