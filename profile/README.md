@@ -1,17 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 
 Welcome to Koksmat. Your helping hand in our digital Kitchen. The word
 Koksmat is danish and means the helping hand to the chef in the kitchen
 of a ship.
-    
-Helping each others succeed with our work and share our knowledge is
-what this is all about.
- 
 
-**Here are some ideas to get you started:**
+The `Bridge` is a web interface that supports you and your guest on the journey through a great digital menu of taste full digital dishes. 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[Bridge](http://localhost:3001) 
+
+![](2023-11-22-07-23-32.png)
+
+
+We suggest that you start by connecting to the 
+
+![](2023-11-22-07-27-39.png)
