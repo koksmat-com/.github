@@ -7,6 +7,16 @@ Get started by using this template
 [https://github.com/new?template_name=tutorial-gettingstarted&template_owner=koksmat-com](https://github.com/new?template_name=tutorial-gettingstarted&template_owner=koksmat-com)
 
 
+```
+|
+|
+|
+|
+|
+|
+|
+|
+
 
 |
 |
@@ -14,16 +24,7 @@ Get started by using this template
 |
 |
 |
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
+```
 
 
 
