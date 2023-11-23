@@ -28,47 +28,33 @@ To get started with Koksmat, you need to have a Microsoft 365 subscription and a
 
 For more details and examples, please refer to the Koksmat documentation and tutorials on GitHub.
 
-
-
-
-
 ### Get started by using this template
 
 [https://github.com/new?template_name=tutorial-gettingstarted&template_owner=koksmat-com](https://github.com/new?template_name=tutorial-gettingstarted&template_owner=koksmat-com)
 
 
+
+```json ./devcontainer/devcon
+{
+	"name": "Koksmat",
+	"image": "ghcr.io/koksmat-com/ui:v1.0.0.koksmat-9",
+	"features": {
+		"ghcr.io/devcontainers/features/azure-cli:1": {
+			"version": "latest"
+		},
+		"forwardPorts": [
+			3001
+		],
+		"containerEnv": {
+			"HOMEPAGE": "koksmat",
+			"NEXTAUTH_SECRET": "na",
+			"KOKSMATROOT": "/usr/src/app/apps/www/",
+			"KITCHENROOT": "/usr/src/app/apps/kitchens/"
+		},
+		"postCreateCommand": "cd /usr/src/app/apps/www  &&  npm run start"
+	}
+
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-```
-
-
-
-
-
-
-
-
-
-
 
 
 ## What is Koksmat all about?
