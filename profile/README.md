@@ -1,5 +1,9 @@
-## Koksmat: An Open Source Framework for Custom Apps on Microsoft 365
+### Koksmat: An Open Source Framework for Custom Apps on Microsoft 365
 
+# [Get Started](https://github.com/new?template_name=tutorial-gettingstarted&template_owner=koksmat-com)
+
+
+# Or read more ...
 A guide for developers and administrators who want to leverage the power of MACH architecture and citizen development
 
 ### What is Koksmat?
