@@ -33,8 +33,8 @@ For more details and examples, please refer to the Koksmat documentation and tut
 [https://github.com/new?template_name=tutorial-gettingstarted&template_owner=koksmat-com](https://github.com/new?template_name=tutorial-gettingstarted&template_owner=koksmat-com)
 
 
-
-```json ./devcontainer/devcon
+The core of Koksmat Bridge is enabled by adding a file **.devcontainer/devcontainer.json**
+```json 
 {
 	"name": "Koksmat",
 	"image": "ghcr.io/koksmat-com/ui:v1.0.0.koksmat-9",
