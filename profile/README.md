@@ -34,7 +34,7 @@ For more details and examples, please refer to the Koksmat documentation and tut
 
 ### Get started by using this template
 
-[https://github.com/new?template_name=tutorial-gettingstarted&template_owner=koksmat-com](https://github.com/new?template_name=tutorial-gettingstarted&template_owner=koksmat-com)
+[https://github.com/new?template_name=koksmat-chaintemplate&template_owner=koksmat-com](https://github.com/new?template_name=tutorial-gettingstarted&template_owner=koksmat-com)
 
 
 The core of Koksmat Bridge is enabled by adding a file **.devcontainer/devcontainer.json**
