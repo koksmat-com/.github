@@ -1,6 +1,6 @@
 ### Koksmat: An Open Source Framework for building Zero Trust Microservices
 
-# [Get Started](https://github.com/new?template_name=koksmat-chaintemplate&template_owner=koksmat-com)
+# [Get Started](https://github.com/new?template_name=koksmat-test1&template_owner=koksmat-com)
 
 
 ### What is Koksmat?
