@@ -1,4 +1,4 @@
-# Streamlining Administration & Empowering Cloud-Native Development
+# Streamlining Cloud Administration & Empowering Cloud-Native Development
 
 
 > [!TIP]
