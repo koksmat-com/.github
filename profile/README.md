@@ -1,4 +1,4 @@
-# Koksmat: Streamlining Administration & Empowering Cloud-Native Development
+# Streamlining Administration & Empowering Cloud-Native Development
 
 
 
